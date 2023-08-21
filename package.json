@@ -1,6 +1,7 @@
 {
   "name": "repository-browser",
   "version": "0.1.0",
+  "homepage": "https://jellyswaty.github.io/repository-browser",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -23,7 +24,9 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "eject": "craco eject"
+    "eject": "craco eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -46,6 +49,7 @@
   "devDependencies": {
     "@craco/craco": "^7.1.0",
     "craco-alias": "^3.0.1",
+    "gh-pages": "^6.0.0",
     "typescript-plugin-css-modules": "^5.0.1"
   }
 }
