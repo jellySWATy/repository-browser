@@ -1,0 +1,1 @@
+export { useDetailedRepository } from "./useDetailedRepository";
