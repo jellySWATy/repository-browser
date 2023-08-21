@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/repository-browser/static/css/main.00ab1e58.css",
+    "main.js": "/repository-browser/static/js/main.95dd4d96.js",
+    "static/media/star.svg": "/repository-browser/static/media/star.d41bc86f4b3a65599aa84a6a4ce0e894.svg",
+    "static/media/fork.svg": "/repository-browser/static/media/fork.2e9339c495b5421c2ef57cc870d5e2a5.svg",
+    "index.html": "/repository-browser/index.html",
+    "main.00ab1e58.css.map": "/repository-browser/static/css/main.00ab1e58.css.map",
+    "main.95dd4d96.js.map": "/repository-browser/static/js/main.95dd4d96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00ab1e58.css",
+    "static/js/main.95dd4d96.js"
+  ]
+}
